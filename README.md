@@ -17,6 +17,7 @@ What is still left to do is the following:
 - Divide the resulting events into time-slots so the user can plan according to the time of the event
 - Improve the remove function
 - Filter the events according to people that are gonna be participating in the events
+- present costs to each event and the resulting costs depending on the number of people
 
 Extensions if time let's us:
 - add a drag-and-drop function when choosing events to your day
