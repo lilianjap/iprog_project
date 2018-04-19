@@ -1,0 +1,38 @@
+#headline {
+    font-size: 140%;
+}
+
+#totalFinish {
+    margin-bottom: 150%;
+}
+
+
+#sideBar {
+  border-style: solid;
+  width: 15%;
+}
+
+#total {
+  border-top-style: solid;
+  border-bottom-style: solid;
+  background-color: #E6E6E6;
+  width: 100%;
+
+}
+
+#dishOverView {
+  background-color: #f2f2f2;
+}
+
+#newDish {
+  margin: 2px 2px 5px 2px;
+  border-style: solid; 
+  padding: 8px;
+  text-decoration-color: #e67300;
+}
+
+#Dprice, #SEK {float: right;  }
+
+#dishName, #cost {font-size: 120%;} 
+
+#SEK {margin-right: 10px; }

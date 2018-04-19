@@ -1,0 +1,26 @@
+#detailsmenu {
+    float: right;
+    background-color: #F9D367;
+    width: 450px;
+    height: 100%;
+    border: solid black;
+    padding: 25px;
+    margin: 25px;
+}
+
+#toporangebox{
+  border-bottom-style: solid;
+}
+
+#detailRow {
+  margin-top:  10px;
+}
+
+.price, #myBtn2 {
+  padding: 20px;
+}
+
+#colImg {
+  margin-top: 20px;
+  margin-left: 20px;
+}
