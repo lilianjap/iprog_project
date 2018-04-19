@@ -30,6 +30,7 @@ Extensions if time let's us:
 * `src/index.css` - global styling sheet
 * `src/App.js` - root component
 * `src/Events`, `src/SelectEvent` etc. - the `.js` and `.css` file for each component. 
+
       - Welcome: Index view with grouping of people, choose who to plan for
       - WhereWhen: search event depending on the location and date
       - SelectEvent: select event from timeslots into your own day
