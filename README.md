@@ -60,8 +60,4 @@ bellow to install all the needed dependencies (e.g. the framework libraries) and
    browser ready for use. Alternatively you can open in through [http://localhost:3000]. Whenever you make changes in your code and save, the browser will update automatically, so you don't have to click refresh anymore.
 
 
-## Credits
-
-* Michel Tabari for fine tuning the code
-
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
