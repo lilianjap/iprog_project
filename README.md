@@ -60,6 +60,6 @@ bellow to install all the needed dependencies (e.g. the framework libraries) and
 
 ## Credits
 
-* Michel Tabari for fine tunning the code
+* Michel Tabari for fine tuning the code
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
