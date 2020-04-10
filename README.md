@@ -23,7 +23,7 @@ Extensions if time let's us:
 - add a drag-and-drop function when choosing events to your day
 - the possibility to add a self-created event to your day
 
-	•	Your project file structure (short description/purpose of each file)
+	•	Project file structure
 
 * `public/index.html` - this is the static html file containing html that's share among all the views.
 * `src/data/EventModel.js` - 
