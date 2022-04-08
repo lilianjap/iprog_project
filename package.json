@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "kind-of": "^6.0.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "^16.13.1",
     "react-bootstrap": "^0.32.4",
     "react-bootstrap-date-picker": "^5.1.0",
